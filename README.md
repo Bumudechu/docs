@@ -1,7 +1,7 @@
 # Mintlify Starter Kit
 
 Click on `Use this template` to copy the Mintlify starter kit. The starter kit contains examples including
-
+ aaaaaaaa neg 2 eneg
 - Guide pages
 - Navigation
 - Customizations
